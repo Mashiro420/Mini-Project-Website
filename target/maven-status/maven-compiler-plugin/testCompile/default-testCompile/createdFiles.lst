@@ -1,0 +1,8 @@
+starter\pages\HomePage.class
+Utils\General.class
+CucumberTestSuite.class
+starter\pages\LoginPage.class
+starter\stepdefinitions\StepDefinitions.class
+starter\pages\TransactionsPage.class
+starter\pages\RegisterPage.class
+starter\pages\OrderPage.class
